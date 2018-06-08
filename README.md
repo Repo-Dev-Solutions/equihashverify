@@ -3,5 +3,4 @@ Change N and K values in src/equi/equi.h save and npm rebuild
 
 <3 equihash
 
-# equihashverifyv2
 # equihashverify
